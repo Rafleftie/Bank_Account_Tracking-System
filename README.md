@@ -1,0 +1,2 @@
+# Bank_Account_Tracking-System
+Bank account tracking system is a general purpose normal android project which eliminates the need of going through paper based pass book or ledger or monthly records to have an overview of your bank transactions. It’s a system which gives the clear picture of all transactions which has been made for particular day, particular week or for particular month and in many formats and styles.
